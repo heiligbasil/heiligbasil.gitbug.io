@@ -1,113 +1,122 @@
-BASIL HAVENS
-ANDROID DEVELOPER
-
-
-CONTACTS
-basilhavens@yahoo.com
+Basil Havens
+Android Developer
 206-880-1713
 Bellevue, WA
+basilhavens@yahoo.com
 https://www.linkedin.com/in/basilhavens/
-https://github.com/heiligbasil
-http://www.basilhavens.com/
+https://github.com/heiligbasil/
+https://www.basilhavens.com/
+https://crash.co/basilhavens/
 
 
 SUMMARY
-
-Android developer with experience in a range of languages and technologies. Proven delivery of apps to ll utility gaps. Works well in team settings and building rapport with a diverse set of people as evidenced by prior work, yet self-motivated and dedicated when solo too. Excels in dynamic environments and helps foster strong ties with colleagues while coding to solve the needs of the business.
+Experienced Android developer looking for ways to bring the world closer together with great mobile apps. On-point communication within diverse teams while also working well independently. Thrilled to continue engineering quality apps for you!
 
 
 SKILLS
-
-ANDROID: Android, Java, Kotlin, Gradle, Android Studio, Animations, Debugging, Design Patterns, Espresso, Firebase, Coroutines, Writing Tests, JSON, JUnit, JVM, Live Data, MVC, MVVM, Room, SQLite, Noti cations, OAuth2, REST APIs, JUnit, Recycler Views, Retro t, Unit Testing
-COMPUTER SCIENCE: Data Structures, Sorting Algorithms, OOP, Computer Architecture
-ADDITIONAL: Python, SQL, Spring Boot, Maven, GitHub, C#, PowerShell, IntelliJ IDEA, PyCharm, Visual Studio, Trello, RabbitMQ
-
-
-PROJECTS
-
-Treasure Hunt
-https://basilhavens.com/portfolio/treasure-hunt/
-04/2020
-Android app for CS concepts like blockchain, BFS, and 8-bit CPU programming
-Android | Kotlin | Retrofit | Fragments | Coroutines
-> Focused exclusively on the frontend for an existing backend MUD
-> Drew map using a custom view directly on the canvas
-> Listened for the completion of the work in dialog fragment with callbacks
-
-Community Calendar
-https://basilhavens.com/portfolio/community-calendar/
-https://play.google.com/store/apps/details?id=com.lambda_school.community_calendar
-12/2019 - 02/2020
-App to empower local organizers to push events to their communities
-Android | Kotlin | MVVM | Room | OKHttp | Apollo | GraphQL | Espresso | Auth0
-> Executed in 2 months with a cross-functional team: 3 Android & 6 Web/UX/iOS
-> Planned extensively with mockups, Trello user stories, research, & UX guidance
-> Pair-programmed, built up the UI and dialog fragment along with action intents
-
-Health Chaser
-https://basilhavens.com/portfolio/health-chaser/
-05/2019
-App for daily activity logging in 8 categories like sleep time and workout regimens
-Android | Java | Firebase | Live Data | OpenWeatherMap API | Drawer Layout
-> Contributed solely to this original idea which can also support multiple users
-> Refresh weather data to log activity notes regardless of location
-> Integrated Google login, animated GIFs, cloud persistence, and sound e  ects
-
-Simpsons Says
-https://basilhavens.com/portfolio/simpsons-says/
-04/2019
-App to show a character quote from the animated TV show The Simpsons
-Android | Java | JSON | OAuth2 | Fragments | RecyclerViews
-> Solely responsible for the frontend for the team working on the backend
-> Implemented login screen to the backend using OAUTH2 authentication
-> Featuring search capability and quote generation via Machine Learning
+Android, Android Studio, Animations, Audio Playback, Coroutines, Custom Views, Debugging, Design Patterns, Espresso, Firebase, Fragments, Git, GitHub, Gradle, JSON, JUnit, JVM, Java, Kotlin, Live Data, MVC, MVVM, Media Player, Mobile Application Development, Notifications, OAuth2, OOP, Picasso, REST APIs, RabbitMQ, Recycler Views, Retrofit, Room, SQLite, Trello, UI, Unit Testing, VS Code, Writing Tests
 
 
 EMPLOYMENT
-
 Lambda School
 Remote
-Team Lead
-08/2019 - 12/2019
-> Led a team of ~5 Android students in a work setting using Agile methodology
-> Facilitated daily standup meetings to share ideas and work progress
-> Delivered one-on-one feedback and code reviews on a daily basis
+Team Lead, Android
+07/2019 - 11/2019
+- Led a team of ~5 Android students in a work setting using Agile methodology
+- Reviewed student code via GitHub and provided feedback and suggestions
+- Facilitated daily standup meetings to build camaraderie, share ideas, and progress
+- Mentored ~3 students on effective learning and solving programming problems
+- Graded the students' weekly tests demonstrating sprint topic mastery
+- Delivered one-on-one feedback and code reviews on a daily basis
 
-NanoString Technologies, Inc.
+Contractor
 Greater Seattle, WA
-IT Technician
-01/2019 - 03/2019
-> Resolved software/hardware issues from the help desk via e-mail and in-person
-> Administrated Windows Server Management and Active Directory
-> Programmed new Cisco phones and troubleshot broken ones
-> Propagated the entire company address book into every Ricoh Printer
+Contracting at NanoString, Chess4Life...
+01/2012 - 03/2019
+A few contracts during this time span, with highlights including...
+- Resolved software/hardware issues from the help desk via e-mail and in-person
+- Taught the game of chess to children in classes and camps
+- Top door-to-door sales leader consistently in upper 10%
+- Trained, coached, and mentored new trainees to become leaders
+- Drove to hospitals while carefully transporting medical specimens
+- Helped students with German grammar and reviewed class material
 
-Chess4Life
-Bellevue, WA
-Chess Instructor
-05/2017 - 12/2018
-> Oversaw tournaments and quads as a tournament director
-> Taught the game of chess to children in classes and camps
-> Submitted tournament results using the SwissSys software
+Microsoft
+Redmond, WA
+Software Development Engineer in Test
+11/2006 - 05/2010
+- Developed apps in C# to automate routine tasks and increase productivity for team members
+- Led a team of 8 remote testers and ensured they met the quality bar
+- Researched solutions to blocking issues for asset artists
+- Presented new solutions to team members in meetings
+- Scripted the universal onboarding install script in PowerShell
+- Troubleshot build breaks by poring through log files and reporting culprit to dev owner
+- Debugged program crashes using Visual Studio
+- Reviewed code submitted by peers and amended code issues found by them
+- Rewrote, updated, and extended the proprietary random state language
+- Recorded my extensive SME knowledge into detailed documents for future knowledge workers
+- Contracted with Excell, Volt, and Comsys
+
+
+APPS
+Treasure Hunt
+https://www.basilhavens.com/portfolio/treasure-hunt/
+04/2020
+Android app for CS concepts like blockchain, BFS, and 8-bit CPU programming
+Android Studio, Kotlin, Retrofit, Fragments, Coroutines
+- Focused exclusively on the frontend for an existing backend MUD
+- Drew map using a custom view directly on the canvas
+- Listened for the completion of the work in dialog fragment with callbacks
+
+Community Calendar
+12/2019 - 02/2020
+https://www.basilhavens.com/portfolio/community-calendar/
+https://play.google.com/store/apps/details?id=com.lambda_school.community_calendar
+App to empower local organizers to push events to their communities
+Android Studio, Kotlin, MVVM, Room, OKHttp, Picasso, Espresso, Auth0
+- Executed in 2 months with a cross-functional team: 3 Android & 6 Web/UX/iOS
+- Planned extensively with mockups, Trello user stories, research, & UX guidance
+- Pair-programmed, built up the UI and dialog fragment along with action intents
+
+Health Chaser
+05/2019
+https://www.basilhavens.com/portfolio/health-chaser/
+App for daily activity logging in 8 categories like sleep time and workout regimens
+Android Studio, Java, Firebase, Live Data, OpenWeatherMap API, Drawer Layout
+- Contributed solely to this original idea which can also support multiple users
+- Refreshed weather data to log activity notes regardless of location
+- Integrated Google login, animated GIFs, cloud persistence, and sound effects
+
+Simpsons Says
+04/2019
+https://www.basilhavens.com/portfolio/simpsons-says/
+App to show a character quote from the animated TV show "The Simpsons"
+Android Studio, Java, JSON, OAuth2, Fragments, RecyclerViews
+- Solely responsible for the frontend for the team working on the backend
+- Implemented login screen to the backend using OAUTH2 authentication
+- Featuring search capability and quote generation via Machine Learning
 
 
 EDUCATION
-
 Lambda School
+Remote
 03/2019 - 04/2020
 Android Development 2020
-CS & Software Engineering academy providing an immersive full-time 40 hour/wk Android development track
+A 9-month computer science & software engineering academy that provided an immersive full-time 40 hours/week hands-on curriculum with a track focused on Android development
 
 University of Washington
+Seattle, WA
 06/2012 - 06/2014
-BA Germanics & EU Studies 2014
-Dean's List every quarter | Cum Laude
+BA Germanics & European Studies 2014
+Dean's List every quarter, Cum Laude
 
 
 VOLUNTEERING
-
 Lambda School
-04/2019 - Present
-Meetup Coordinator
 Seattle, WA
-Organize monthly in-person meetups for students and alumni in a variety of activities
+Meetup Coordinator
+04/2019 - Present
+- Attract speakers to monthly meetups for students and alumni
+- Coordinate activities through polls, feedback, and seasonal suitability
+
+
