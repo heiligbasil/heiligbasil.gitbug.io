@@ -23,6 +23,7 @@ Remote
 Team Lead, Android
 07/2019 - 11/2019
 - Led a team of ~5 Android students in a work setting using Agile methodology
+- Taught Android skills with Kotlin and Java in instructional power hours
 - Reviewed student code via GitHub and provided feedback and suggestions
 - Facilitated daily standup meetings to build camaraderie, share ideas, and progress
 - Mentored ~3 students on effective learning and solving programming problems
