@@ -1,7 +1,7 @@
 Basil Havens
 Android Developer
 206-880-1713
-Bellevue, WA
+Bellevue, WA 98015
 basilhavens@yahoo.com
 https://www.linkedin.com/in/basilhavens/
 https://www.basilhavens.com/
@@ -14,7 +14,7 @@ Experienced Android developer looking for ways to bring the world closer togethe
 
 
 SKILLS
-Android, Activities, Android Studio, Animations, Audio Playback, Coroutines, Custom Views, Data Binding, Debugging, Design Patterns, Espresso, Firebase, Fragments, Git, GitHub, Gradle, JSON, JUnit, JVM, Java, Kotlin, Live Data, MVVM, Media Player, Mobile Application Development, Notifications, OAuth2, OOP, Picasso, REST APIs, Recycler Views, Retrofit, Room, SQLite, Trello, UI, Unit Testing, VS Code, Writing Tests
+Activity Lifecycle, Android Debug Bridge (ADB), Android Studio, Android Studio Profiler, Animated Image Drawables, Animations, Async Tasks, Audio Sound Effects, Bottom Navigation Bar, Broadcast Services, Callbacks, Cardview, Chips, Clipboard, Constraint Layout, Coroutines, Custom Themes, Custom Views, DB Browser for SQLite, Data Access Object (DAO), Data Binding, Date and Time Picker, Debugging, Design Patterns,, Discord, Drawer Layout, Espresso, File IO, Firebase, Fragments, Generics, Git, Git Bash, GitHub, Google Login, Google Maps, Google Play Store, Gradle, Gson, Hash Tables, Integration Testing, IntelliJ IDEA, Intents, JSON, JUnit, Java, Kotlin, Linear Layout, Live Data, Location Services, MVVM Architecture, Material Design, Media Player, Mobile Application Development, Mockito , Multithreading, Navigation Component, Network Adapter, Notifications, OAuth2, OkHttp, Picasso, Postman, REST APIs, Recycler Views, Regular Expressions, Repository, Retrofit, Robolectric, Room, Services, Shape Shifter, Shared Preferences, Slack, Stetho, Threads / Runnables, Transition Animations, Trello, Unit Testing, User Interface (UI), Video Playback, View Flipper, ViewModel, Web APIs, XML, Zoom
 
 
 EMPLOYMENT
@@ -22,7 +22,7 @@ Lambda School
 Android Development Team Lead
 07/2019 - 11/2019
 Remote
-- Wrote Android applications using Java and Kotlin for development in tandem
+- Developed Android applications using Java and Kotlin for use in tandem
 - Taught Android development with Kotlin and Java in instructional power hours
 - Reviewed code submissions via GitHub and provided feedback and suggestions
 - Facilitated daily standup meetings to hash out technical issues and share progress
