@@ -1,7 +1,7 @@
 Basil Havens
 Android Developer
 206-880-1713
-Bellevue, WA 98015
+Fort Worth, TX 76180
 basilhavens@yahoo.com
 https://www.linkedin.com/in/basilhavens/
 https://www.basilhavens.com/
@@ -18,12 +18,22 @@ Activity Lifecycle, Android Debug Bridge (ADB), Android Studio, Android Studio P
 
 
 EMPLOYMENT
+Android Developer
+04/2021 - Present
+Remote
+- Ensure app for associates is bug free
+- Investigate and eliminate crashes
+- Refactor the fragments and viewmodels
+- Improve UI functionality for easier use
+
 Edison Interactive
 Android Developer
-06/2020 - Present
+06/2020 - 04/2021
 Remote
-- Coding Android apps in Kotlin using the latest libraries
-- Developing new features in various apps
+- Created a full-featured music module using radio.com (Audacy) API in an Android app
+- Implemented Android canvas, RxJava, coroutines, and GPS data into a golfing app
+- Integrated the Samsung Knox SDK on the Android portion of a Flutter app
+- Built Google Maps navigation functionality into Android/Kotlin and Flutter/Dart
 
 Lambda School
 Android Development Team Lead
