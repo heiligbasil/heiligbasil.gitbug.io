@@ -59,9 +59,18 @@ Remote
 
 
 APPS
+Walmart App
+https://www.basilhavens.com/portfolio/walmart-app/
+02/2022 - Present
+Android ecommerce app developed by Walmart of which I was a contributor
+Kotlin,GraphQL, MVVM, ViewModel, Delegates, ADA, Analytics , API, Coroutines
+- Shop Similar feature which fetched a list via GraphQL query to display a tiles of products
+- Product Gallery feature which displayed a vertical list of hero images which was collapsable
+- Subscription enhancement requiring an API update, fresh logic, and a new bottomSheet
+
 Chanter Music Notes
 https://www.basilhavens.com/portfolio/chanter-music-notes/
-05/2022 - Present
+05/2022 - 02/2023
 Android app for practical application of learning to play this instrument
 Kotlin, Custom View, Extended Class, Enums, Threads, Animations, Full Screen, Timer, Extension Methods
 - Custom views, extended classes, and enums for better code organization
@@ -89,7 +98,6 @@ Android Studio, Kotlin, Retrofit, Fragments, Coroutines
 Community Calendar
 12/2019 - 02/2020
 https://www.basilhavens.com/portfolio/community-calendar/
-https://play.google.com/store/apps/details?id=com.lambda_school.community_calendar
 App to empower local organizers to push events to their communities
 Android Studio, Kotlin, MVVM, Room, OKHttp, Picasso, Espresso, Auth0
 - Executed in 2 months with a cross-functional team: 3 Android & 6 Web/UX/iOS
