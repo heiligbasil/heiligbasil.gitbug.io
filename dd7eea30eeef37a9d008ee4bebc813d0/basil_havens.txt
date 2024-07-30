@@ -13,7 +13,7 @@ Experienced Android developer looking for ways to bring the world closer togethe
 
 
 SKILLS
-Activity Lifecycle, Android Debug Bridge (ADB), Android Studio, Android Studio Profiler, Animated Image Drawables, Animations, Async Tasks, Audio Sound Effects, Bottom Navigation Bar, Broadcast Services, Callbacks, Cardview, Chips, Clipboard, Constraint Layout, Coroutines, Custom Themes, Custom Views, DB Browser for SQLite, Data Access Object (DAO), Data Binding, Date and Time Picker, Debugging, Design Patterns,, Discord, Drawer Layout, Espresso, File IO, Firebase, Fragments, Generics, Git, Git Bash, GitHub, Google Login, Google Maps, Google Play Store, Gradle, GraphQL, Gson, Hash Tables, Integration Testing, IntelliJ IDEA, Intents, JSON, JUnit, Java, Kotlin, Linear Layout, Live Data, Location Services, MVVM Architecture, Material Design, Media Player, Mobile Application Development, Mockito , Multithreading, Navigation Component, Network Adapter, Notifications, OAuth2, OkHttp, Picasso, Postman, REST APIs, Recycler Views, Regular Expressions, Repository, Retrofit, Robolectric, Room, Services, Shape Shifter, Shared Preferences, Slack, Stetho, Threads / Runnables, Transition Animations, Trello, Unit Testing, User Interface (UI), Video Playback, View Flipper, ViewModel, Web APIs, XML, Zoom
+Activity Lifecycle, Android Debug Bridge (ADB), Android Studio, Android Studio Profiler, Animated Image Drawables, Animations, Async Tasks, Audio Sound Effects, Bottom Navigation Bar, Broadcast Services, Callbacks, Cardview, Chips, Clipboard, Constraint Layout, Coroutines, Custom Themes, Custom Views, DB Browser for SQLite, Data Access Object (DAO), Data Binding, Date and Time Picker, Debugging, Design Patterns, Discord, Drawer Layout, Espresso, Extension Functions, File IO, Firebase, Fragments, Generics, Git, Git Bash, GitHub, Google Login, Google Maps, Google Play Store, Gradle, GraphQL, Gson, Hash Tables, Integration Testing, IntelliJ IDEA, Intents, JSON, JUnit, Java, Koin, Kotlin, Linear Layout, LiveData, Location Services, MVVM Architecture, Material Design, Media Player, Mobile Application Development, Mockito, Multithreading, Navigation Component, Network Adapter, Notifications, OAuth2, OkHttp, Picasso, Postman, REST APIs, RecyclerViews, Regular Expressions, Repository, Retrofit, Robolectric, Room, RxJava, Services, Shape Shifter, Shared Preferences, Slack, Stetho, Threads / Runnables, Transition Animations, Trello, Unit Testing, User Interface (UI), Video Playback, ViewFlipper, ViewModel, Web APIs, XML, Zoom
 
 
 EMPLOYMENT
@@ -27,6 +27,9 @@ Remote
 - Write GraphQL queries to access backend systems
 - Run Splunk queries to check on performance and analytics
 - Investigate Firebase crashes and ANR issues
+- Add feature which shows suggestions when products are unavailable
+- Extend VideoView class for accessibility
+- Insert analytics beacons and attributes
 
 Kroger Technology
 Android Developer
@@ -64,8 +67,8 @@ https://www.basilhavens.com/portfolio/walmart-app/
 02/2022 - Present
 Android ecommerce app developed by Walmart of which I was a contributor
 Kotlin,GraphQL, MVVM, ViewModel, Delegates, ADA, Analytics , API, Coroutines
-- Shop Similar feature which fetched a list via GraphQL query to display a tiles of products
-- Product Gallery feature which displayed a vertical list of hero images which was collapsable
+- Shop Similar feature which fetched a list via GraphQL query to display tiles of products
+- Product Gallery feature which displayed a vertical list of hero images which was collapsible
 - Subscription enhancement requiring an API update, fresh logic, and a new bottomSheet
 
 Chanter Music Notes
@@ -127,11 +130,11 @@ EDUCATION
 Lambda School
 Remote
 03/2019 - 04/2020
-Android Development 2020
-A 9-month computer science & software engineering academy that provided an immersive full-time 40 hours/week hands-on curriculum with a track focused on Android development
+Certification in Android Development & Computer Science
+A computer science & software engineering academy that provides a hands-on curriculum with a track focused on Android development
 
 University of Washington
 Seattle, WA
 06/2012 - 06/2014
-BA Germanics & European Studies 2014
+BA in Language
 Dean's List every quarter, Cum Laude
